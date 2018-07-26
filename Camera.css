@@ -1,0 +1,96 @@
+#welcome {
+	color:white;
+	text-align:center;
+	padding-top:10;
+	font-size: 300%;
+	background-color:rgba(0, 0, 0, 0.384);
+	height: 65;
+	border-bottom: 5;
+	border-color:#2c8fff;
+	
+}
+
+#title {
+	color:white;
+	padding:10 20 20 20;
+	}
+
+body {
+	background: url(https://www.elegantthemes.com/blog/wp-content/uploads/2013/09/bg-12-full.jpg);
+}
+
+
+
+#continent {
+	padding:40;
+}
+
+.vid {
+	 width:30%; 
+	 height:50%;
+	 margin:50 120 75 120;
+	 float:left;
+}
+
+.circle {
+  height: 50;
+  width: 50;
+  background-color: red;
+  border-radius: 50%;
+  position:absolute;
+  border-style:solid;
+  border-color:black;
+}
+
+#c1 {
+
+	background-color: red;
+	left:288;
+	top:100;
+}
+
+#c2 {
+
+	background-color: red;
+	left:900;
+	top:100;
+
+}
+
+#c3 {
+
+	background-color: red;
+	left:288;
+	top:515;
+}
+
+#c4 {
+
+	background-color: red;
+		left:900;
+	top:515;
+}
+
+@-webkit-keyframes name {
+    0% {background-color:red;}
+    0.1% {background-color: red;                      }
+    99.99% {background-color:green;}
+    100% {background-color:green;}
+}
+
+
+.circle3 {
+	background-color: red;
+    -webkit-animation-name: name;  
+    -webkit-animation-iteration-count: 1;  
+    -webkit-animation-duration: 10s; 
+    -webkit-animation-delay: 8s;
+}
+
+.circle4 {
+	background-color: red;
+    -webkit-animation-name: name;  
+    -webkit-animation-iteration-count: 1;  
+    -webkit-animation-duration: 10s; 
+    -webkit-animation-delay: 18s;
+}

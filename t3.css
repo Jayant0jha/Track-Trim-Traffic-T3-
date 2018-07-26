@@ -1,0 +1,56 @@
+body {
+    padding:0;
+    margin:0;
+    background: url(https://c.wallhere.com/photos/88/39/light_sunset_monument_night_circle_photography_lights_long-861971.jpg!d)
+}
+
+h1 {
+    font-size: 500%;
+    text-align: center;
+    background-color: rgba(0, 0, 0, 0.418);
+    color :white;
+    height: 120;
+    margin-top: inherit;
+}
+
+h2 {
+    margin-bottom: -8px; 
+    text-align: center;
+}
+
+#details{
+    font-size:200%;
+    text-align: center;
+    color:white;
+    margin-top:-40;
+    background-color: rgba(0, 0, 0, 0.418);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+a{
+    text-align:left;
+    color:white;
+    text-decoration: none;
+    font-size:200%;
+    position: relative;
+}
+
+a:hover {
+    
+
+}
+
+.section{
+        color:white;
+        background-color: rgba(0, 0, 0, 0.418);
+        padding-left: 15;
+        width:300px;
+        margin-bottom: -20px;
+}
+
+#button {
+        width:100;
+        position:relative;
+        float:middle;
+
+}
